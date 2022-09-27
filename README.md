@@ -1,2 +1,2 @@
-# Groovy4
-This is TestProjectName
+# gradle_template
+This is testow2o12345
